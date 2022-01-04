@@ -12,3 +12,7 @@ If the heartbeat is actively increasing, the given
 component occurs behind the beat in relation to
 the rest of the groove/tempo grid, and vice versa.
 
+
+## Flow Chart
+![alt text](https://github.com/nol-alb/melograph_submission/blob/main/images/Transcript.png)
+
