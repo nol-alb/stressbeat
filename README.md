@@ -32,3 +32,6 @@ displayed in real-time, along with another pulse
 signifying the changes in heart rate that reflect
 the microtiming within the groove.
 
+![alt text](https://github.com/nol-alb/stressbeat/blob/main/images/Stress-Beat-UI.png)
+
+
