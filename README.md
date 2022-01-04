@@ -14,5 +14,5 @@ the rest of the groove/tempo grid, and vice versa.
 
 
 ## Flow Chart
-![alt text](https://github.com/nol-alb/melograph_submission/blob/main/images/Transcript.png)
+![alt text](https://github.com/nol-alb/stressbeat/blob/main/images/updateddiagram.png)
 
